@@ -142,8 +142,6 @@ It's recommended to go through the examples in this order:
 
 ## Contributing
 
-This appears to be part of an learning curriculum. If you're working through these examples:
-
 1. Try to understand each concept before moving to the next
 2. Experiment with the code by making small modifications
 3. Pay attention to compiler error messages - they're very helpful in Rust
